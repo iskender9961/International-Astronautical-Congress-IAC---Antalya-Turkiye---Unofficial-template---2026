@@ -26,8 +26,12 @@ the attribution or this README.
 
 Authors:
 1) Omer Burak Iskender (current maintainer)
-iske0001@e.ntu.edu.sg
+iske0001 at e.ntu.edu.sg
 
 2) Stefano Fari
 German Aerospace Center (DLR)
-stefano.fari@dlr.de
+stefano.fari at dlr.de
+
+3) Volkan Kumtepeli
+University of Oxford
+Volkan.kumtepeli at eng.ox.ac.uk
