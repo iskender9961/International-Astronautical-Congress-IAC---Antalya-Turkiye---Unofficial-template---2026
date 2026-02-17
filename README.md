@@ -1,40 +1,33 @@
-# International Astronautical Congress LaTeX template
+# IAC2026 - Antalya/Turkiye LaTeX Template
 ![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Last updated: 03-May-2024
+Last updated: 17-Feb-2026
 
 ## Change logs
 - 2021/12/13 First release
-- 2024/05/03 Updated example file
+- 2024/05/03 Updated example file ([Overleaf link](https://www.overleaf.com/latex/templates/international-astronautical-congress-iac-unofficial-template-updated-2024/yhpswdffykds))
+- 2026/02/17 Final release for IAC2026
 
 ## General info
 This template results as a branch of the GitHub repository:
 <https://github.com/debittner/iac_latex_template>
-  
-The template has been updated to the latest IAC guidelines, to include, among others:   
+
+The template has been updated to the latest IAC guidelines, to include, among others:
 1. font, spacing and general formatting;
 2. appropriate page numberings;
-3. ORCID reference. 
+3. ORCID reference;
+4. keywords section.
 
-The template is based on the [IAC 2024 template](https://www.iafastro.org/assets/files/events/iac/2024/IAC%202024%20Manuscript_Template.doc).
-
-It was used to submit the following papers:  
-- S. Farì and D. Grande, “Vector field-based guidance development for launch vehicle re-entry via actuated parafoil”, Dubai, UAE, 2021.
-- S. Farì, ``The Vertical Landing Vehicles Library (VLVLib): a Modelica-based approach to high-fidelity simulation and verification of GNC systems for reusable rockets'', Paris, France, 2022.
+The template is based on the [IAC 2026 manuscript template](https://iafastro.directory/iac/folder/au/#file.6407).
 
 Feel free to use or modify this template, but please consider it to be
 distributed under the BSD 2-clause license. In other words, don't remove
 the attribution or this README.
 
-Authors: 
-1) John O. Woods, Ph.D. (original author)  
-West Virginia University Applied Space Exploration Laboratory  
-john.o.woods@gmail.com  
+Authors:
+1) Omer Burak Iskender (current maintainer)
+iske0001@e.ntu.edu.sg
 
-2) Davide Grande  
-University College London (UCL)  
-davide.grande.19@ucl.ac.uk  
-
-3) Stefano Farì (current maintainer)  
-German Aerospace Center (DLR)  
+2) Stefano Fari
+German Aerospace Center (DLR)
 stefano.fari@dlr.de

@@ -104,6 +104,7 @@
 \newcommand*{\IACcopyright}[1]{\def\iac@copyright{#1}}\IACcopyright{}
 \newcommand*{\IAClocation}[1]{\def\iac@location{#1}}\IAClocation{}
 \newcommand*{\IACdate}[1]{\def\iac@date{#1}}\IACdate{}
+\newcommand*{\IACkeywords}[1]{\def\iac@keywords{#1}}\IACkeywords{}
 
 
 \newcommand{\IACcopyrightA}[1]{\def\iac@copyright{Copyright \copyright\iac@paperyear\ by the International Astronautical Federation. All rights reserved.}}
@@ -155,8 +156,12 @@
       \textbf{Abstract}
   \end{center}
   \indent\iac@abstract\par%
+  \ifx\iac@keywords\empty\else%
+    \vskip 1.5ex%
+    \noindent\textbf{Keywords:} \iac@keywords\par%
+  \fi%
   \vskip 4.5ex%
-  
+
   }%
 
 % Set header and footer
